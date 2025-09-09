@@ -16,8 +16,6 @@ organizacje zrzeszające programistów pracujących nad repozytoriami,
 web hooks – wywołanie operacji na repozytorium wysyła informację do innego serwisu lub skryptu,
 wiki dla celów dokumentacji.</body>
 
-<p>GitHub is more than just a code repository. It is a collaborative ecosystem that simplifies project management, enhances teamwork, and supports learning. For beginners, it serves as a portfolio to showcase coding skills, while for professionals, it is a critical tool for managing complex projects. Its integration with Git ensures robust version control, and its community-driven nature fosters innovation and knowledge sharing.
-
-GitHub has become an essential platform for developers worldwide, offering tools that cater to both individual and team needs, making it a cornerstone of modern software development.
+<p>GitHub to więcej niż tylko repozytorium kodu. To współpracujący ekosystem, który upraszcza zarządzanie projektami, poprawia pracę zespołową i wspiera naukę. Dla początkujących służy jako portfolio do prezentacji umiejętności programistycznych, podczas gdy dla profesjonalistów jest krytycznym narzędziem do zarządzania złożonymi projektami. Jego integracja z Gitem zapewnia solidną kontrolę wersji, a jego społecznościowy charakter sprzyja innowacjom i dzieleniu się wiedzą.GitHub stał się niezbędną platformą dla programistów na całym świecie, oferując narzędzia, które odpowiadają zarówno indywidualnym, jak i zespołowym potrzebom, czyniąc go kamieniem węgielnym nowoczesnego rozwoju oprogramowania.
 
 </p>
